@@ -48,7 +48,7 @@ Requires **BepInEx** to be installed before using this mod.
 ## Troubleshooting
 
 - Make sure your game is **64-bit**. BepInEx x64 does **not** work on 32-bit (x86) games.
-- If you get errors related to missing fonts, make sure your `Fonts` folder or mod includes Vietnamese-compatible fonts.
+- If you get errors related to missing fonts, make sure your `Fonts` folder or mod includes.
 
 ---
 
