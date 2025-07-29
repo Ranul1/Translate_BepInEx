@@ -45,7 +45,7 @@ Requires **BepInEx** to be installed before using this mod.
 
 ---
 
-## 🧪 Troubleshooting
+## Troubleshooting
 
 - Make sure your game is **32-bit** (x86). BepInEx x86 does **not** work on 64-bit (x64) games.
 - If you get errors related to missing fonts, make sure your `Fonts` folder or mod includes Vietnamese-compatible fonts.
@@ -65,8 +65,8 @@ Requires **BepInEx** to be installed before using this mod.
 
 ## 1. Cài đặt BepInEx
 
-1. Tải **BepInEx bản x86 (32-bit)** tại:  
-   👉 [https://github.com/BepInEx/BepInEx/releases](https://github.com/BepInEx/BepInEx/releases)
+1. Tải **BepInEx** tại:  
+    [https://github.com/BepInEx/BepInEx/releases](https://github.com/BepInEx/BepInEx/releases)
 
 2. Giải nén file `.zip` vào thư mục chứa game **PvZ Fusion**.  
    Sau khi giải nén, thư mục game của bạn nên có dạng:
@@ -101,9 +101,9 @@ Requires **BepInEx** to be installed before using this mod.
 
 ---
 
-## ⚠️ Lưu ý
+## Lưu ý
 
-- Chỉ dùng được với bản game **32-bit**. Nếu game 64-bit sẽ không chạy được BepInEx x86.
+- Chỉ dùng được với bản game **64-bit**. Nếu game 32-bit sẽ không chạy được BepInEx.
 - Nếu gặp lỗi font, hãy kiểm tra lại thư mục font đã hỗ trợ tiếng Việt chưa.
 
 ---
