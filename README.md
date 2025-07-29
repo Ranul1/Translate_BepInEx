@@ -41,7 +41,7 @@ Requires **BepInEx** to be installed before using this mod.
    (Game folder)/BepInEx/plugins/
    ```
 
-3. Launch the game again. If everything works, the game should now be partially or fully translated into Vietnamese.
+3. Launch the game again. If everything works, the game should now be partially or fully translated.
 
 ---
 
@@ -55,9 +55,8 @@ Requires **BepInEx** to be installed before using this mod.
 ## Credits
 
 - Plugin by: `Bloom`
-- Mod by `Ranul`
-- Game: Plants vs. Zombies Fusion by `蓝飘飘fly`
-- Powered by BepInEx
+- Moded by `Ranul`
+- Auth by `蓝飘飘fly`
 
 ---
 
