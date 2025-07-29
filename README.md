@@ -32,13 +32,13 @@ Requires **BepInEx** to be installed before using this mod.
 1. Place `PvZ_Fusion_Translator__BepInEx_.dll` into the following folder:
 
    ```
-   PvZ Fusion/BepInEx/plugins/
+   (Game folder)/BepInEx/plugins/
    ```
 
-2. (Optional) If the mod includes a `Localization` or `Strings` folder, place them in:
+2. If the mod includes a `PvZ_Fusion_Translator` folder, place them in:
 
    ```
-   PvZ Fusion/Mods/PvZ_Fusion_Translator/Localization/Vietnamese/Strings/
+   (Game folder)/BepInEx/plugins/
    ```
 
 3. Launch the game again. If everything works, the game should now be partially or fully translated into Vietnamese.
@@ -88,13 +88,13 @@ Requires **BepInEx** to be installed before using this mod.
 1. Copy file `PvZ_Fusion_Translator__BepInEx_.dll` vào thư mục:
 
    ```
-   PvZ Fusion/BepInEx/plugins/
+    (Game folder)/BepInEx/plugins/
    ```
 
-2. (Nếu có) Copy thư mục `Localization` hoặc `Strings` của bản dịch vào:
+2. Copy thư mục `PvZ_Fusion_Translator` của bản dịch vào:
 
    ```
-   PvZ Fusion/Mods/PvZ_Fusion_Translator/Localization/Vietnamese/Strings/
+   (Game folder)/BepInEx/plugins/
    ```
 
 3. Chạy lại game. Nếu không có lỗi, game sẽ được dịch sang tiếng Việt.
