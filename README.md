@@ -1,4 +1,4 @@
-# PvZ Fusion Translator (BepInEx Plugin)
+# PvZ Fusion Translator (Beta)
 
 This is a BepInEx plugin that translates **Plants vs. Zombies: Fusion** into Vietnamese.  
 Requires **BepInEx** to be installed before using this mod.
